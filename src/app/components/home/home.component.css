@@ -1,0 +1,28 @@
+.nav-link{
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.cursor{
+    cursor: pointer;
+}
+
+.heading{
+    font-size: 16px;
+    font-weight: 700;
+    
+}
+.gold-text{
+    /* color: gold; */
+    background: linear-gradient(#fbea86 0, #fbea86 8%, #fbea86 30%, #fbea86 40%, transparent 80%), linear-gradient(#fff 0, #e0af21 8%, #e0af21 25%, #e0af21 62.5%, #e0af21 100%);
+}
+.pull-left {
+    float: left !important;
+}
+.medibuddy{
+    height: 32px;
+    color: #1778f2;
+    margin-left: 5px;
+    line-height: 30px;
+    font-size: 22px;
+}
